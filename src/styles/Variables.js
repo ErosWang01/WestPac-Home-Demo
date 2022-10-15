@@ -1,0 +1,16 @@
+export const color = {
+	primaryColor: '#da1710',
+	lightPrimaryColor: '#231951',
+	secondaryColor: '#4e476d',
+    textColor: '#181b25',
+	textWhiteColor: '#fafcfc',
+	textPurpleColor: '#201c4d',
+    textGreyColor: '#565f65',
+	whiteColor: '#fff',
+	greyBackgroundColor: '#f3f4f6',
+	purpleBackgroundColor: '#a11dd1',
+	borderColor: '#e6e6e6',
+	buttonColor: '#6348e9',
+	buttonHoverColor: "#d4665e",
+	shadowColor: 'rgba(0, 0, 0, 0.1)',
+};
